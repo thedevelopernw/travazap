@@ -71,8 +71,12 @@ var executeMassiveSendMessage = (message, input) => {
 
 - Após dar "enter", copie e cole o comando abaixo no mesmo console. Dê enter novamente, e imediatamente após, as mensagens serão eviadas ao destinatário: ```executeMassiveSendMessage("mensagem desejada entre aspas", temp1)```
 
+![execute](https://github.com/thedevelopernw/wpp_loop/blob/main/screenshots/executing.png?raw=true)
+
 - Para parar de enviar as mensagens, feche o navegador onde a aba do WhatsApp Web está aberta ou copie e cole o código abaixo no mesmo console:
 ```clearInterval(interval)```
+
+![clear](https://github.com/thedevelopernw/wpp_loop/blob/main/screenshots/interval.png?raw=true)
 
 ## Informações importantes
 
