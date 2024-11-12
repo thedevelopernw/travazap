@@ -31,7 +31,7 @@ Para você conseguir ver e copiar o código, [clique aqui](https://github.com/th
 
 - Feito isso, deixe a tela do Dev Tools aberta, pois você vai precisar dela!!!
 
-- Abra o código pelo [link](https://github.com/thedevelopernw/wpp_loop/blob/main/wpp.js) e copie da linha 2 à linha 27, ou se preferir, o trecho abaixo dispõe o código exato para copiar:
+- Copie o código abaixo:
 
 ```js
 var interval = null;
