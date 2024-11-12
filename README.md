@@ -72,3 +72,9 @@ var executeMassiveSendMessage = (message, input) => {
 - Para parar de enviar as mensagens, feche o navegador onde a aba do WhatsApp Web está aberta ou copie e cole o código abaixo no mesmo console:
 ```clearInterval(interval)```
 
+## Informações importantes
+
+- Esse código foi testado e está funcionando até a versão 130.0.6723.91 do Google Chrome.
+- Esse código tem o objetivo apenas informativo e didático. Não nos responsabilizamos por mal uso.
+
+- Se for do seu interesse, [acesse o código inteiramente explicado, linha por linha](https://github.com/thedevelopernw/wpp_loop/blob/main/wpp.js) 
