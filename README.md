@@ -25,7 +25,7 @@ Para você conseguir ver e copiar o código, [clique aqui](https://github.com/th
 
 ![global](https://github.com/thedevelopernw/wpp_loop/blob/main/screenshots/globalVariable.png?raw=true)
 
-- Vocẽ irá perceber que aparecá uma informação na parte de baixo do Dev Tools, escrito temp1:
+- Vocẽ irá perceber que aparecerá uma informação na parte de baixo do Dev Tools, escrito temp1:
 
 ![temp](https://github.com/thedevelopernw/wpp_loop/blob/main/screenshots/temp1.png?raw=true)
 
