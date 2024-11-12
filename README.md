@@ -35,3 +35,7 @@ var executeMassiveSendMessage = (message, input) => {
     }, 1000)
 } 
 ```
+
+- Em seguida, vá ao cosole aberto na página do seu WhatsApp Web e cole o trecho de código copiado:
+
+![shot1](https://github.com/thedevelopernw/wpp_loop/blob/main/screenshots/console.png?raw=true)
