@@ -29,6 +29,8 @@ Para você conseguir ver e copiar o código, [clique aqui](https://github.com/th
 
 ![temp](https://github.com/thedevelopernw/wpp_loop/blob/main/screenshots/temp1.png?raw=true)
 
+- Este é o console, guarde essa informação na cabeça pois você ainda vai utiliza-lo mais vezes.
+
 - Feito isso, deixe a tela do Dev Tools aberta, pois você vai precisar dela!!!
 
 - Copie o código abaixo:
